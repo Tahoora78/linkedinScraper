@@ -5,9 +5,11 @@ For running <b>linkedin_scraper.ipynb</b> you should type your username and pass
 All of the information of your connections would be written in <b>linkein.log</b>.
 
 # Requirements
-python3+
-seleium
-beautifulsoup4
-webdriver-manager
-sqlite3
-logging
+<ul>
+<li>python3+</li>
+<li>seleium</li>
+<li>beautifulsoup4</li>
+<li>webdriver-manager</li>
+<li>sqlite3<li>
+<li>logging</li>
+</ul>
