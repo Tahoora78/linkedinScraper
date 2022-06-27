@@ -6,10 +6,10 @@ All of the information of your connections would be written in <b>linkein.log</b
 
 # Requirements
 <ul>
-<li>python3+</li>
-<li>seleium</li>
-<li>beautifulsoup4</li>
-<li>webdriver-manager</li>
-<li>sqlite3<li>
-<li>logging</li>
+  <li>python3+</li>
+  <li>seleium</li>
+  <li>beautifulsoup4</li>
+  <li>webdriver-manager</li>
+  <li>sqlite3<li>
+  <li>logging</li>
 </ul>
